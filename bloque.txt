@@ -1,0 +1,4 @@
+En el curso de Git y GitHub aprendi muchas cosas.
+Aprendi a como usarlos y que sirven para hacer el trabajo en quipo mas efectivo y facil.
+Los conceptos fundamentales, como el manejo de ramas, la realización de commits y la creación de repositorios, resultaron ser herramientas esenciales para organizar el trabajo y mantener un seguimiento claro de los cambios.
+Gith y GitHub se complementan muy bien para la integracino de cambios y gestion de proyectos en trabajo en equipo.
